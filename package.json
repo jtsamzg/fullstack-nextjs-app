@@ -1,13 +1,13 @@
 {
   "author": "UIUX Lab",
   "email": "uiuxlab@gmail.com",
-  "name": "fullstack-nextjs-app-template",
+  "name": "fullstack-nextjs-app",
   "version": "1.4.5",
   "description": "A full-stack sample web application based on Next.js that creates a simple whole-website architecture.",
   "main": "next.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xizon/fullstack-nextjs-app-template.git"
+    "url": "git+https://github.com/jtsamzg/fullstack-nextjs-app.git"
   },
   "keywords": [
     "typescript",
@@ -72,7 +72,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xizon/fullstack-nextjs-app-template/issues"
+    "url": "https://github.com/jtsamzg/fullstack-nextjs-app/issues"
   },
-  "homepage": "https://github.com/xizon/fullstack-nextjs-app-template#readme"
+  "homepage": "https://github.com/jtsamzg/fullstack-nextjs-app#readme"
 }

@@ -27,7 +27,7 @@
 #### = 1.4.0 (July 17, 2024) =
 
 * New: Add the Authorization header identifier in the middleware after login.
-* New: Add App Router Template and save Pages Router Template.
+* New: Add App Router and save Pages Router.
   - rename the folder `pages` to `@pages`
   - add new folder `app`
   - To enable **Pages Router**, you need to rename the folder `@pages` to `pages`, and delete `app`
